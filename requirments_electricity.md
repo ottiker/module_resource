@@ -1,9 +1,10 @@
 #Requirements Electricity  
-.Light
-.(Radiator) / (Air Climator)
-.Computer + Internet Router
-.Mobilephone
-.Cooker
-.(Boiler)
-.Washing machine
-.Dish washer
+.Light  
+.Refridgerator  
+.(Cooker) *?Gaz?*  
+.Washing machine *-> 1kw*  
+.Dish washer  
+.Computer + Internet Router  
+.Mobilephone  
+.(Boiler)  
+.(Radiator) / (Air Climator)  
