@@ -16,6 +16,7 @@
   
   
 **Konstruktion aus MDF mit Lasercutter:**  
+<img src="vacumtubes_lasercutter_plan.png" alt="Plan" width="350px">  
 *vacumtubes_lasercutter_plan.png*  
 
 **Vorhandene Komponenten:**
