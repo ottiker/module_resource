@@ -1,2 +1,2 @@
-# vapor_generator
-Clean water and electricity generator.
+# Module: Resource
+Clean water and electricity.
