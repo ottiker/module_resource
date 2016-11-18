@@ -11,7 +11,7 @@
 7. Untergrund Weiss oder Spiegel oder Halbröhre/Parabole  
   
   
-**Dichtung zum externen erwährmungs System**
+**Dichtung zum externen erwährmungs System:**  
 [Silikonringe die Hitzebeständig:](http://www.hermannwendler.de/industriebedarf/technische-dichtungsmaterialien/dichtungsmaterialien-als-platten-oder-rollenware/hitzebestaendige-dichtungsmaterialien)  
   
   
