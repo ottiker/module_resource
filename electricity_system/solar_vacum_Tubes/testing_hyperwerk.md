@@ -11,8 +11,8 @@
 7. Untergrund Weiss oder Spiegel oder Halbröhre/Parabole  
   
   
-**Dichtung Silikonringe die Hitzebeständig:**  
-http://www.hermannwendler.de/industriebedarf/technische-dichtungsmaterialien/dichtungsmaterialien-als-platten-oder-rollenware/hitzebestaendige-dichtungsmaterialien  
+**Dichtung zum externen erwährmungs System**
+[Silikonringe die Hitzebeständig:](http://www.hermannwendler.de/industriebedarf/technische-dichtungsmaterialien/dichtungsmaterialien-als-platten-oder-rollenware/hitzebestaendige-dichtungsmaterialien)  
   
   
 **Konstruktion aus MDF mit Lasercutter:**  
