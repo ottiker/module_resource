@@ -15,7 +15,8 @@
 http://www.hermannwendler.de/industriebedarf/technische-dichtungsmaterialien/dichtungsmaterialien-als-platten-oder-rollenware/hitzebestaendige-dichtungsmaterialien  
   
   
-**Konstruktion aus MDF mit Lasercutter:** *vacumtubes_lasercutter_plan.png*
+**Konstruktion aus MDF mit Lasercutter:**  
+*vacumtubes_lasercutter_plan.png*  
 
 **Vorhandene Komponenten:**
 - Evacuated Solar Tubes
