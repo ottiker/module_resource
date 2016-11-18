@@ -17,7 +17,7 @@ http://www.hermannwendler.de/industriebedarf/technische-dichtungsmaterialien/dic
   
 **Konstruktion aus MDF mit Lasercutter:** *vacumtubes_lasercutter_plan.png*
 
-*Vorhandene Komponenten:*
+**Vorhandene Komponenten:**
 - Evacuated Solar Tubes
 - Copper Heat Pipes
 - DS1802 Sensor
