@@ -20,7 +20,7 @@ http://www.hermannwendler.de/industriebedarf/technische-dichtungsmaterialien/dic
 Vorhandene Komponenten:
 - Evacuated Solar Tubes
 - Copper Heat Pipes
-+ DS1802 Sensor
+- DS1802 Sensor
 - D1 mini / PC
 - Arduino SD Logger
 - ev. WLAN adapter
